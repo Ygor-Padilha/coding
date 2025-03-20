@@ -27,7 +27,7 @@ def sing_song():
         ("Aku ga romantis", 0.08),
         ("Maaf, aku ga romantis", 0.08),
         ("Maaf, aku ga romantis", 0.08),
-        ("Maaf, aku ga romantis\n", 0.08)
+        ("Sinto falta do seu sorriso\n", 0.08)
     ]
     delays = [0.3, 4.0, 7.8, 11.5, 14.9, 18.3, 22.0, 23.7, 25.3, 26.8]
     
